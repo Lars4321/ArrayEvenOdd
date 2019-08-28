@@ -19,17 +19,11 @@ namespace ArrayLigeEllerUlige
             {
                 Console.WriteLine("Indtast " + (num1 - i) + " numre");
                 int number;
-                try
-                {
+                
                     number = int.Parse(Console.ReadLine());
                     result[i] = number;
                     i++; //only increase "i" if input is valid
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("Du har tastet et bogstav, prøv igen!");
-                    continue;  // skip rest of loop
-                }
+                
 
                 if (number % 2 == 0)
                 {
