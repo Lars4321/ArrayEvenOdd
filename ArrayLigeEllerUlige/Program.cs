@@ -10,8 +10,9 @@ namespace ArrayLigeEllerUlige
 
            int num1 = int.Parse(Console.ReadLine());
 
-           
-            //int[] result = new int[num1];
+
+            //int[] resultEven = new int[num1];
+            //int[] resultOdd = new int[num1];
 
             for (int i = 0; i < num1; i++)
             {
@@ -20,8 +21,7 @@ namespace ArrayLigeEllerUlige
                 
                     number = int.Parse(Console.ReadLine());
                     //result[i] = number;
-                    
-                
+                                   
                 if (number % 2 == 0)
                 {
                     Console.WriteLine("lige tal : ", number);
