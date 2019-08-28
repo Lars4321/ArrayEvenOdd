@@ -9,3 +9,14 @@ C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayLigeEllerUlige\obj\Debug\ne
 C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.AssemblyInfo.cs
 C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.dll
 C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.pdb
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\bin\Debug\netcoreapp2.1\ArrayLigeEllerUlige.deps.json
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\bin\Debug\netcoreapp2.1\ArrayLigeEllerUlige.runtimeconfig.json
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\bin\Debug\netcoreapp2.1\ArrayLigeEllerUlige.runtimeconfig.dev.json
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\bin\Debug\netcoreapp2.1\ArrayLigeEllerUlige.dll
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\bin\Debug\netcoreapp2.1\ArrayLigeEllerUlige.pdb
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.csprojAssemblyReference.cache
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.csproj.CoreCompileInputs.cache
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.AssemblyInfoInputs.cache
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.AssemblyInfo.cs
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.dll
+C:\Users\musik\source\repos\ArrayLigeEllerUlige\ArrayEvenOdd\ArrayLigeEllerUlige\obj\Debug\netcoreapp2.1\ArrayLigeEllerUlige.pdb

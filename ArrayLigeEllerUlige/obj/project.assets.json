@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige.csproj",
+      "projectUniqueName": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayEvenOdd\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige.csproj",
       "projectName": "ArrayLigeEllerUlige",
-      "projectPath": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige.csproj",
+      "projectPath": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayEvenOdd\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige.csproj",
       "packagesPath": "C:\\Users\\musik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayLigeEllerUlige\\obj\\",
+      "outputPath": "C:\\Users\\musik\\source\\repos\\ArrayLigeEllerUlige\\ArrayEvenOdd\\ArrayLigeEllerUlige\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
