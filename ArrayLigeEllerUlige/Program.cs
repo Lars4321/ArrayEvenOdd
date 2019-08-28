@@ -11,20 +11,17 @@ namespace ArrayLigeEllerUlige
            int num1 = int.Parse(Console.ReadLine());
 
            
-            int[] result = new int[num1];
+            //int[] result = new int[num1];
 
-
-
-            for (int i = 0; i < num1;)
+            for (int i = 0; i < num1; i++)
             {
                 Console.WriteLine("Indtast " + (num1 - i) + " numre");
                 int number;
                 
                     number = int.Parse(Console.ReadLine());
-                    result[i] = number;
-                    i++; //only increase "i" if input is valid
+                    //result[i] = number;
+                    
                 
-
                 if (number % 2 == 0)
                 {
                     Console.WriteLine("lige tal : ", number);
