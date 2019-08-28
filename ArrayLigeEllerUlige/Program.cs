@@ -11,8 +11,8 @@ namespace ArrayLigeEllerUlige
            int num1 = int.Parse(Console.ReadLine());
 
 
-            //int[] resultEven = new int[num1];
-            //int[] resultOdd = new int[num1];
+            // erklære et array her?
+            
 
             for (int i = 0; i < num1; i++)
             {
@@ -24,13 +24,17 @@ namespace ArrayLigeEllerUlige
                                    
                 if (number % 2 == 0)
                 {
-                    Console.WriteLine("lige tal : ", number);
+                 int[] resultEven = new int[number];
+                    //Console.WriteLine("lige tal : ", number);
                 }
                 else
                 {
-                    Console.WriteLine("ulige tal : ", number);
+                    int[] resultOdd = new int[number];
+                    //Console.WriteLine("ulige tal : ", number);
                 }                
             }
+
+
          Console.ReadLine();
         }
     }
